@@ -17,18 +17,18 @@ This repository showcases my completed projects from **42 School**, covering fou
 
 |  Order | 👨‍💻  Project | 🎓PL/Program | ⌚ Evaluation Length | 👥 Evaluation | ✔️ Evaluation Points Required | 🧑‍🤝‍🧑 Group Project | 
 |--|--|--|--|--|--|--|
-| ① ✔️ | [Libft]() | C | 15 Mins | Moulinette and 3 Peers | 3 | No |
-| ② ✔️ | [Born2BeRoot]() | VirtualBox | 1 Hour | 3 Peers | 3 | No |
-| ③ ✔️ | [Printf]() | C | 15 Mins | Moulinette and 3 Peers | 3 | No |
-| ④ ✔️ | [Get_Next_Line]() | C | 15 Mins | Moulinette and 3 Peers | 3 | No |
-| ⑤ ✔️ | [Pipex]() | C | 15 Mins | 3 Peers | 3 | No |
-| ⑥ ✔️ | [So_Long]() | C | 15 Mins | 3 Peers | 3 | No |
-| ⑦ ✔️ | [Push_Swap]() | C | 15 Mins | 3 Peers | 3 | No |
-| ⑧ ✔️ | [Philosophers]() | C | 15 Mins | 3 Peers | 3 | No |
-| ⑨ ✔️ | [Minishell]() | C | 1 Hour | 3 Peers | 3 | Yes - 2 People |
-| ⑩ ✔️| [NetPractice]() | Networking | 15 Mins | 3 Peers | 3 | No |
-| ⑪ ✔️| [Cub3D]() | C | 15 Mins | 3 Peers | 3 | Yes - 2 People |
-| ⑫ | [10 C++ Modules]() | C++ | 15 Mins Per Module | 2 Peers Per Module | 2 Per Module - 20 Total | No |
+| ① ✔️ | [Libft](https://github.com/KarmaFaber/42_School/tree/main/1_libft) | C | 15 Mins | Moulinette and 3 Peers | 3 | No |
+| ② ✔️ | Born2BeRoot | VirtualBox | 1 Hour | 3 Peers | 3 | No |
+| ③ ✔️ | [Printf](https://github.com/KarmaFaber/42_School/tree/main/3_printf) | C | 15 Mins | Moulinette and 3 Peers | 3 | No |
+| ④ ✔️ | [Get_Next_Line](https://github.com/KarmaFaber/42_School/tree/main/4_GetNextLine) | C | 15 Mins | Moulinette and 3 Peers | 3 | No |
+| ⑤ ✔️ | [Pipex](https://github.com/KarmaFaber/42_School/tree/main/5_pipex) | C | 15 Mins | 3 Peers | 3 | No |
+| ⑥ ✔️ | [So_Long](https://github.com/KarmaFaber/42_School/tree/main/6_so_long) | C | 15 Mins | 3 Peers | 3 | No |
+| ⑦ ✔️ | [Push_Swap](https://github.com/KarmaFaber/42_School/tree/main/7_push_swap) | C | 15 Mins | 3 Peers | 3 | No |
+| ⑧ ✔️ | [Philosophers](https://github.com/KarmaFaber/42_School/tree/main/8_philosophers) | C | 15 Mins | 3 Peers | 3 | No |
+| ⑨ ✔️ | [Minishell](https://github.com/KarmaFaber/42_School/tree/main/9_minishell) | C | 1 Hour | 3 Peers | 3 | Yes - 2 People |
+| ⑩ ✔️| NetPractice | Networking | 15 Mins | 3 Peers | 3 | No |
+| ⑪ ✔️| [Cub3D](https://github.com/KarmaFaber/42_School/tree/main/11_cub3D) | C | 15 Mins | 3 Peers | 3 | Yes - 2 People |
+| ⑫ | [10 C++ Modules](https://github.com/KarmaFaber/42_School/tree/main/12_CPPs) | C++ | 15 Mins Per Module | 2 Peers Per Module | 2 Per Module - 20 Total | No |
 | ⑬ | [webserv]() | C++ | 1 Hour | 3 Peers | 3 | Yes - 2 People |
 | ⑭ | [Inception]() | Docker | 30 Mins | 3 Peers | 3 | No |
 | ⑮ | [Ft_Transcendence]() | Django, Python, JavaScript, HTML, Bootstrap, Bootstrap-Table, ApexCharts, CSS, dockerfile, RabbitMQ, OTP, tinyprc | 1 Hour | 3 Peers | 3 | Yes - Between 3-5 People |
