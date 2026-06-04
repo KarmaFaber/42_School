@@ -28,9 +28,9 @@ This repository showcases my completed projects from **42 School**, covering fou
 | ⑨ ✔️ | [Minishell](https://github.com/KarmaFaber/42_School/tree/main/9_minishell) | C | 1 Hour | 3 Peers | 3 | Yes - 2 People |
 | ⑩ ✔️| NetPractice | Networking | 15 Mins | 3 Peers | 3 | No |
 | ⑪ ✔️| [Cub3D](https://github.com/KarmaFaber/42_School/tree/main/11_cub3D) | C | 15 Mins | 3 Peers | 3 | Yes - 2 People |
-| ⑫ | [10 C++ Modules](https://github.com/KarmaFaber/42_School/tree/main/12_CPPs) | C++ | 15 Mins Per Module | 2 Peers Per Module | 2 Per Module - 20 Total | No |
+| ⑫ ✔️ | [10 C++ Modules](https://github.com/KarmaFaber/42_School/tree/main/12_CPPs) | C++ | 15 Mins Per Module | 2 Peers Per Module | 2 Per Module - 20 Total | No |
 | ⑬ | [webserv]() | C++ | 1 Hour | 3 Peers | 3 | Yes - 2 People |
-| ⑭ | [Inception]() | Docker | 30 Mins | 3 Peers | 3 | No |
+| ⑭ ✔️ | [Inception](https://github.com/KarmaFaber/42_School/tree/main/13_inception) | Docker | 30 Mins | 3 Peers | 3 | No |
 | ⑮ | [Ft_Transcendence]() | Django, Python, JavaScript, HTML, Bootstrap, Bootstrap-Table, ApexCharts, CSS, dockerfile, RabbitMQ, OTP, tinyprc | 1 Hour | 3 Peers | 3 | Yes - Between 3-5 People |
 
 </td>
