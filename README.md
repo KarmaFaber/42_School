@@ -29,8 +29,8 @@ This repository showcases my completed projects from **42 School**, covering fou
 | ⑩ ✔️| NetPractice | Networking | 15 Mins | 3 Peers | 3 | No |
 | ⑪ ✔️| [Cub3D](https://github.com/KarmaFaber/42_School/tree/main/11_cub3D) | C | 15 Mins | 3 Peers | 3 | Yes - 2 People |
 | ⑫ ✔️ | [10 C++ Modules](https://github.com/KarmaFaber/42_School/tree/main/12_CPPs) | C++ | 15 Mins Per Module | 2 Peers Per Module | 2 Per Module - 20 Total | No |
-| ⑬ | [webserv]() | C++ | 1 Hour | 3 Peers | 3 | Yes - 2 People |
-| ⑭ ✔️ | [Inception](https://github.com/KarmaFaber/42_School/tree/main/13_inception) | Docker | 30 Mins | 3 Peers | 3 | No |
+| ⑬ ✔️ | [Inception](https://github.com/KarmaFaber/42_School/tree/main/13_inception) | Docker | 30 Mins | 3 Peers | 3 | No |
+| ⑭ ✔️ | [webserv](https://github.com/KarmaFaber/42_School/tree/main/14_webserv) | C++ | 1 Hour | 3 Peers | 3 | Yes - 3 People |
 | ⑮ | [Ft_Transcendence]() | Django, Python, JavaScript, HTML, Bootstrap, Bootstrap-Table, ApexCharts, CSS, dockerfile, RabbitMQ, OTP, tinyprc | 1 Hour | 3 Peers | 3 | Yes - Between 3-5 People |
 
 </td>
@@ -162,22 +162,7 @@ A series of C++ exercises introducing OOP, polymorphism, memory models, template
 
 ---
 
-### **13. Webserver** (`11_Webserver`) <img src="https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white" height="20">&nbsp;
-
-This project is about writing an own HTTP server in C++.
-
-**Key skills:**  
-- HTTP/1.1 protocol implementation  
-- Socket programming  
-- Non-blocking I/O & multiplexing (poll/epoll/kqueue depending on OS)  
-- Request parsing & response handling  
-- CGI integration  
-- Configuration file parsing  
-- Server architecture & modular design
-
----
-
-### **14. Inception** (`12_inception`) <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="20">&nbsp;
+### **13. Inception** (`13_inception`) <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="20">&nbsp;
 
 This project aims to broaden system administration knowledge by using Docker. It involves virtualizing several Docker services and orchestrating them within a personal virtual machine.
 
@@ -191,6 +176,19 @@ This project aims to broaden system administration knowledge by using Docker. It
 - System administration & service isolation
 
 ---
+
+### **14. Webserver** (`14_Webserver`) <img src="https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white" height="20">&nbsp;
+
+This project is about writing an own HTTP server in C++.
+
+**Key skills:**  
+- HTTP/1.1 protocol implementation  
+- Socket programming  
+- Non-blocking I/O & multiplexing (poll/epoll/kqueue depending on OS)  
+- Request parsing & response handling  
+- CGI integration  
+- Configuration file parsing  
+- Server architecture & modular design
 
 ### **15. ft_transcendence** (`15_ft_transcendence`)
 
